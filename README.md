@@ -157,12 +157,6 @@ spendly-expense-tracker/
 
 ## 🚀 Deployment
 
-**Railway** (recommended):
-
-```bash
-railway up
-```
-
 **Render**:
 
 ```yaml
@@ -207,13 +201,6 @@ Creates 60 days of data and tests all ML features.
 3. Commit changes (`git commit -m 'Add feature'`)
 4. Push (`git push origin feature/amazing`)
 5. Open Pull Request
-
----
-
-## 📝 License
-
-MIT License - see [LICENSE](LICENSE) for details.
-
 ---
 
 ## 👨‍💻 Author
