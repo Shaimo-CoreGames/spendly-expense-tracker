@@ -9,7 +9,7 @@
 
 **Smart expense tracking with ML-powered predictions and budget forecasting**
 
-[Live Demo](https://expense-tracker-api-623.onrender.com)
+<a href="https://expense-tracker-api-623.onrender.com" target="_blank">Live Demo</a>
 </div>
 
 ---
